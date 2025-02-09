@@ -9,7 +9,7 @@ it will be within in rhino and grasshopper CAD environment.
 ### Setup 1
 try to figure out how to make a function that in src folder .py
 and then import it in grasshopper (I kind of forgot but please search of it)
->[!NOTE]:
+>[!NOTE]
 > use rhino 7 and try to use the latest/modern way and start with a simple points.
 
 - make a rhino file and grasshopper file in `sciprt` folder
@@ -24,7 +24,7 @@ Some references:
 
 - [how to do error handling in python](https://www.geeksforgeeks.org/python-exception-handling/)
 
->[!IMPORTANT]:
+>[!IMPORTANT]
 Those i just quick search and I will try to find more. also if you have any just put it into markdown.
 
 ### Setup 2
